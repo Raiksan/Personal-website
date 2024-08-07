@@ -1,0 +1,1 @@
+// Implement function to switch the website colors
