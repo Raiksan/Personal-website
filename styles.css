@@ -126,6 +126,12 @@ p{
 
 }
 
+body.light-theme {
+    --main-bg-color:#ddd7ce;
+    --main-bd-color:#cec9c0;
+    --main-txt-color:#111111;
+}
+
 @media (prefers-color-scheme: dark){
     :root{
         --main-bg-color:#222831;
